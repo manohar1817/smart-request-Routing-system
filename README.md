@@ -28,8 +28,7 @@ pip install -r requirements.txt
 python manage.py runserver
 ```
 
-## Screenshots
-(Add project screenshots here)
+
 
 ## Future Improvements
 - AI-based routing
